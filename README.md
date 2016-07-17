@@ -1,2 +1,9 @@
 # hello-worldjd
-just another repository
+
+
+Hi Humanoids!
+
+I am human.
+
+
+(bow)
